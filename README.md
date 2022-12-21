@@ -24,4 +24,6 @@ python zhoi.py
 
 ### Screenshot
 
-<img src="
+
+![](https://github.com/CYBER-STARK/ZHOI-INSTA/blob/main/screenshot.png)
+<br>
