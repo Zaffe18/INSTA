@@ -25,5 +25,4 @@ python zhoi.py
 ### Screenshot
 
 
-![](https://github.com/CYBER-STARK/ZHOI-INSTA/blob/main/screenshot.png)
-<br>
+![TEST](https://raw.githubusercontent.com/CYBER-STARK/ZHOI-INSTA/blob/main/screenshot.png)
