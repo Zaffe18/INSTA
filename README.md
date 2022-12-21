@@ -35,5 +35,8 @@ python zhoi.py
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
 
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://wa.me/919072233245)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-MESSAGE-red?style=for-the-badge&logo=whatsapp)](https://wa.me/919072233245)
 
+# WARNING
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
