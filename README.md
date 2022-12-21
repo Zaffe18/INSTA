@@ -32,6 +32,7 @@ python zhoi.py
 ````
 ### Tested On
 • Termux
+• Kali Linux
 
 ### Screenshot
 
