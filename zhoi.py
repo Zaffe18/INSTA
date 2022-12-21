@@ -4,7 +4,7 @@ from getpass import getpass
 import time
 import subprocess as sub
 import random
-from defbf import *
+from intro import *
 
 class bcolors:
     BOLD = '\033[1m'
