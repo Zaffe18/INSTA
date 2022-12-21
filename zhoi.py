@@ -56,9 +56,9 @@ print("")
 print("\t \33[94m⊰᯽⊱┈──╌❊ CODED BY S74RK ❊╌──┈⊰᯽⊱ \t")
 print("")
 print("\t  \033[36m┏━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┓\t")
-print("\n\t   \033[93m[•] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
-print("\t  \033[93m [•] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
-print("\t  \033[93m [•] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
+print("\n\t   \033[93m[#] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
+print("\t  \033[93m [#] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
+print("\t  \033[93m [#] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
 print("\t  \033[36m┗━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┛\t")
 
 
