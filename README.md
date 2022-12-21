@@ -22,7 +22,7 @@ ZHOI-INSTA is a python based script which is officially made to test password st
 apt update && apt upgarde
 apt install git
 apt install python
-pip install instaloder
+pip install instaloader
 git clone https://github.com/CYBER-STARK/ZHOI-INSTA/
 cd ZHOI-INSTA
 chmod +x *
