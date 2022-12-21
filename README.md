@@ -7,7 +7,7 @@
 <a href="https://github.com/evildevill"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
-INSTAGRAM-BRUTEFORCE-TOOL
+***INSTAGRAM-BRUTEFORCE-TOOL***
 
 ## About
 
