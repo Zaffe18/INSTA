@@ -31,3 +31,9 @@ python zhoi.py
 ![TERMUX](https://i.imgur.com/fG0ypx7.jpeg)
 • TERMUX
 
+# SUPPORT
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
+
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://wa.me/919072233245)
+
