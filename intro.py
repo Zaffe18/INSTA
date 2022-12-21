@@ -20,9 +20,9 @@ print("")
 print("\t \33[94m⊰᯽⊱┈──╌❊ CODED BY S74RK ❊╌──┈⊰᯽⊱ \t")
 
 print("\t  \033[36m┏━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┓\t")
-print("\n\t   \033[93m[•] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
-print("\t  \033[93m [•] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
-print("\t  \033[93m [•] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
+print("\n\t   \033[93m[#] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
+print("\t  \033[93m [#] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
+print("\t  \033[93m [#] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
 print("\t  \033[36m┗━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┛\t")
 class bcolors:
     BOLD = '\033[1m'
@@ -53,15 +53,15 @@ def start():
              print("\t \33[94m⊰᯽⊱┈──╌❊ CODED BY S74RK ❊╌──┈⊰᯽⊱ \t")
              print("")
              print("\t  \033[36m┏━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┓\t")
-             print("\n\t   \033[93m[•] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
-             print("\t  \033[93m [•] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
-             print("\t  \033[93m [•] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
+             print("\n\t   \033[93m[#] \033[94mAUTHOR   :  \033[92mCYB3R-$74RK                                                           \t ")
+             print("\t  \033[93m [#] \033[94mGITHUB  : \033[92mgithub.com/CYBER-STARK                                                         \t  ")
+             print("\t  \033[93m [#] \033[94mINSTA  : \033[92mcyber_st4rk                                                           \t")
              print("\t  \033[36m┗━━━━━°❀•°:🎀 - 🎀:°•❀°━━━━━┛\t")
          else:
              	     os.system("xdg-open 'https://instagram.com/mr_lalu_1232/")
              	     os.system("clear")
              	     print("\t  [#] Insta cyber_st4rk\t")
-             	     print("\t  [•]Whatsapp : S74RK\t")
+             	     print("\t  [#]Whatsapp : S74RK\t")
              	     
              	     exit()
              	     
