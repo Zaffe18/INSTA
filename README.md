@@ -17,6 +17,11 @@ ZHOI-INSTA is a python based script which is officially made to test password st
 ## Author
 [✗]    𝗖𝗢𝗗𝗘𝗗 𝗕𝗬 𝗦𝗧𝗔𝗥𝗞
 ####    FOLLOW ME 
+
+<a href="https://github.com/CYBER-STARK/"><img title="Github" src="https://img.shields.io/badge/CYBER-STARK-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
+
+
 ### Installation
 
 ``` 
@@ -28,11 +33,11 @@ git clone https://github.com/CYBER-STARK/ZHOI-INSTA/
 cd ZHOI-INSTA
 chmod +x *
 pip install -r requirements.txt
-python zhoi.py
-    TOOL INSTALLATION SUCCESSFUL
+python3 zhoi.py
+ TOOL INSTALLATION SUCCESSFUL
 ````
 ### Tested On
-• Termux\t
+• Termux
 • Kali Linux
 
 ### Screenshot
