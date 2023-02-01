@@ -45,7 +45,7 @@ $ `apt update && apt upgarde`
 
 $ `apt install git`
 
-$ `apt install python
+$ `apt install python`
 
 $ `cd ZHOI-INSTA`
 
