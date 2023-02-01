@@ -22,7 +22,7 @@ ZHOI-INSTA is a python based script which is officially made to test password st
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
 
 
-### Installation
+### Installation 
 
 ``` 
 apt update && apt upgarde
@@ -54,6 +54,10 @@ $ `chmod +x *`
 $ `./setup.sh`
 
 $ `python3 zhoi-insta.py`
+
+```
+--> Run Tor 
+```
 
 ### Tested On
 • Termux
