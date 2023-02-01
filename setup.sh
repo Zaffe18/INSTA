@@ -72,22 +72,22 @@ main_install() {
 main_install
 
 echo ""
-#pip3 install requests --upgrade >/dev/null 2>&1
-#pip3 install requests[socks] >/dev/null 2>&1
-#pip3 install stem >/dev/null 2>&1
-#pip3 install instagram-py >/dev/null 2>&1
-#pip3 install instagram-py --upgrade
+pip3 install requests --upgrade >/dev/null 2>&1
+pip3 install requests[socks] >/dev/null 2>&1
+pip3 install stem >/dev/null 2>&1
+pip3 install instagram-py >/dev/null 2>&1
+pip3 install instagram-py --upgrade
                 
 install_tool() {
         if [[ $(command -v instagram-py) ]]; then
                 echo ""
         else
                 echo ""
-#                pip3 install requests --upgrade >/dev/null 2>&1
-#                pip3 install requests[socks] >/dev/null 2>&1
-#                pip3 install stem >/dev/null 2>&1
-#                pip3 install instagram-py >/dev/null 2>&1
-#                pip3 install instagram-py --upgrade
+                 pip3 install requests --upgrade >/dev/null 2>&1
+                 pip3 install requests[socks] >/dev/null 2>&1
+                 pip3 install stem >/dev/null 2>&1
+                 pip3 install instagram-py >/dev/null 2>&1
+                 pip3 install instagram-py --upgrade
         fi
 }
 install_tool
