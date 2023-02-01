@@ -83,21 +83,21 @@ install_tool() {
                 echo ""
         else
                 echo ""
-                 pip3 install requests --upgrade >/dev/null 2>&1
-                 pip3 install requests[socks] >/dev/null 2>&1
-                 pip3 install stem >/dev/null 2>&1
-                 pip3 install instagram-py >/dev/null 2>&1
-                 pip3 install instagram-py --upgrade
+                pip3 install requests --upgrade >/dev/null 2>&1
+                pip3 install requests[socks] >/dev/null 2>&1
+                pip3 install stem >/dev/null 2>&1
+                pip3 install instagram-py >/dev/null 2>&1
+                pip3 install instagram-py --upgrade
         fi
 }
 install_tool
 
-wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter >/dev/null 2>&1
+wget https://gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter5 >/dev/null 2>&1
 if [ -f gh05t-hunter5 ]; then
 	cp -r gh05t-hunter5 $PREFIX/bin/gh05t-hunter5
 	chmod +x $PREFIX/bin/gh05t-hunter5
 else
-	wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter
+	wget https://gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter5
 	mv gh05t-hunter5 $PREFIX/bin/gh05t-hunter5
 	chmod +x $PREFIX/bin/gh05t-hunter5
 fi
@@ -106,7 +106,7 @@ if [ -f $PREFIX/bin/gh05t-hunter5 ]; then
 	echo ""
 else
 	main_install
-	wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter
+	wget https://gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/gh05t-hunter5
 	mv gh05t-hunter5 $PREFIX/bin/gh05t-hunter5
 fi
 if [[ $(command -v gh05t-hunter5) ]]; then
