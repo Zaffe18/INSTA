@@ -18,7 +18,7 @@ ZHOI-INSTA is a python based script which is officially made to test password st
 [✗]    𝗖𝗢𝗗𝗘𝗗 𝗕𝗬 𝗦𝗧𝗔𝗥𝗞
 ####    FOLLOW ME 
 
-<a href="https://github.com/MR-S74RK/"><img title="Github" src="https://img.shields.io/badge/CYBER-STARK-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MR-S74RK/"><img title="Github" src="https://img.shields.io/badge/MR-S74RK-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
 
 
