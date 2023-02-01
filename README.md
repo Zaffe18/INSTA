@@ -75,7 +75,7 @@ $ `python3 zhoi-insta.py`
 
 [![Instagram](https://img.shields.io/badge/WHATSAPP-MESSAGE-red?style=for-the-badge&logo=whatsapp)](https://wa.me/919072233245)
 
-#### Thanks to contributors:
+#### Thanks {contributors} :
 
 <table>
 <tr>
