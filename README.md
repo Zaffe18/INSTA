@@ -75,6 +75,15 @@ $ `python3 zhoi-insta.py`
 
 [![Instagram](https://img.shields.io/badge/WHATSAPP-MESSAGE-red?style=for-the-badge&logo=whatsapp)](https://wa.me/919072233245)
 
+#### Thanks to contributors:
+
+<table>
+<tr>
+<th><a href="https://github.com/GH05T-HUNTER5"><img src="https://avatars.githubusercontent.com/u/108191615?v=4">GH05T-HUNTER5</a></th>
+<th><a href="https://github.com/MR-S74RK"><img src="https://avatars.githubusercontent.com/u/108525160?v=4">ZHOI-INSTA</a></th>
+</tr>
+</table>
+
 # WARNING
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
