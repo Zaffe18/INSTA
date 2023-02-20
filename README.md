@@ -87,3 +87,7 @@ $ `python3 zhoi-insta.py`
 # WARNING
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+### Support Me 
+![Buy Me a coffe](https://cdn.buymeacoffee.com/buttons/default-orange.png)
+
+Bitcoin: bc1q30n86rs942jt6u0d9ltystr8ru4rr9pdy7f3xn
