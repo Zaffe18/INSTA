@@ -41,7 +41,7 @@ python3 zhoi.py
 
 ### Installation
 
-$ `apt update && apt upgarde`
+$ `apt update && apt upgrade`
 
 $ `apt install git`
 
