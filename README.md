@@ -62,6 +62,8 @@ $ `python3 zhoi-insta.py`
 ### Tested On
 • Termux
 • Kali Linux
+#Tutorial
+
 
 ### Screenshot
 
