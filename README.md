@@ -82,7 +82,7 @@ $ `python3 zhoi-insta.py`
 <table>
 <tr>
 <th><a href="https://github.com/GH05T-HUNTER5"><img src="https://avatars.githubusercontent.com/u/108191615?v=4">GH05T-HUNTER5</a></th>
-<th><a href="https://github.com/MR-S74RK"><img src="https://avatars.githubusercontent.com/u/108525160?v=4">ZHOI-INSTA</a></th>
+<th><a href="https://github.com/MR-S74RK"><img src="https://avatars.githubusercontent.com/u/108525160?v=4">MR-S74RK</a></th>
 </tr>
 </table>
 
