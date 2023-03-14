@@ -1,4 +1,4 @@
-# ZHOI-INSTA
+# SUII-INSTA
 
 <p align="center">
 <a href="https://instagram.com/mr_lalu_1232"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -29,8 +29,8 @@ apt update && apt upgrade
 apt install git
 apt install python
 pip install instaloader
-git clone https://github.com/MR-S74RK/ZHOI-INSTA/
-cd ZHOI-INSTA
+git clone https://github.com/MR-S74RK/SUII-INSTA/
+cd SUII-INSTA
 chmod +x *
 pip install -r requirements.txt
 python3 zhoi.py
@@ -47,7 +47,7 @@ $ `apt install git`
 
 $ `apt install python`
 
-$ `cd ZHOI-INSTA`
+$ `cd SUII-INSTA`
 
 $ `chmod +x *`
 
