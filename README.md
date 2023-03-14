@@ -29,7 +29,7 @@ apt update && apt upgrade
 apt install git
 apt install python
 pip install instaloader
-git clone https://github.com/MR-S74RK/SUII-INSTA/
+git clone https://github.com/MR-S74RK/ZHOI-INSTA/
 cd ZHOI-INSTA
 chmod +x *
 pip install -r requirements.txt
