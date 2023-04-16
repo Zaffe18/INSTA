@@ -30,7 +30,7 @@ apt install git
 apt install python
 pip install instaloader
 git clone https://github.com/MR-S74RK/INSTA/
-cd ZHOI-INSTA
+cd INSTA
 chmod +x *
 pip install -r requirements.txt
 python3 Run.py
