@@ -29,11 +29,11 @@ apt update && apt upgrade
 apt install git
 apt install python
 pip install instaloader
-git clone https://github.com/MR-S74RK/ZHOI-INSTA/
+git clone https://github.com/MR-S74RK/INSTA/
 cd ZHOI-INSTA
 chmod +x *
 pip install -r requirements.txt
-python3 zhoi.py
+python3 Run.py
  TOOL INSTALLATION SUCCESSFUL
 ````
 
@@ -47,7 +47,7 @@ $ `apt install git`
 
 $ `apt install python`
 
-$ `cd ZHOI-INSTA`
+$ `cd INSTA`
 
 $ `chmod +x *`
 
