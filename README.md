@@ -62,7 +62,7 @@ $ `python3 zhoi-insta.py`
 ### Tested On
 • Termux
 • Kali Linux
-#Tutorial
+# Tutorial
 
 
 ### Screenshot
@@ -70,6 +70,8 @@ $ `python3 zhoi-insta.py`
 
 ![TERMUX](https://i.imgur.com/fG0ypx7.jpeg)
 • TERMUX
+![KALI](https://raw.githubusercontent.com/MR-S74RK/INSTA/main/screenshot-kali.png)
+Kali
 
 # SUPPORT
 
